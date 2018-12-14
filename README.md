@@ -1,6 +1,6 @@
 ## Maria Magdalena Cantalicio Capellan 
 
- [Ver Mi Repositorio](https://github.com/Magdalena1983/SeminarioTecnologia/edit/master/README.md) 
+ [Ver Mi Repositorio](https://github.com/Magdalena1983/SeminarioTecnologia/) 
 
 ### Matricula
 
